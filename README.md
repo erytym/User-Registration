@@ -11,7 +11,7 @@ This project demonstrates best practices in web development, including clean arc
 Clone the Repository:
 
 ```bash
-https://github.com/erytym/User-Registration.git
+https://github.com/ruddro-dev/User-Registration.git
 ```
 
 Restore Dependencies:
